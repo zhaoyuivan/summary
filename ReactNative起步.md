@@ -29,7 +29,8 @@ date: 2018-06-21
 
 ###### native 与 rn 开发模式
 ![模式对比](./structure.png)
-Native最常见的是MVC开发模式，数据通过controller设置到view上，view上的交互再通过controller反映到model上。而在RN开发中，所有界面的结构组织及展示都是基于组件的，
+
+Native最常见的是MVC开发模式，数据通过controller设置到view上，view上的交互再通过controller反映到model上。而在RN开发中，所有界面的结构组织及展示都是基于组件的，
 
 ### props & state
 ###### props
